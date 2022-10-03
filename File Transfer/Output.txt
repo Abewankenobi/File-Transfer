@@ -1,0 +1,3 @@
+This is a Microsoft text document
+	This is awesome
+Python is very cool and functional
